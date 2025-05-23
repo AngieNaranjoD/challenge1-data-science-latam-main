@@ -33,9 +33,18 @@ El proyecto aborda las siguientes preguntas:
 
 ---
 
+## 🔗 Acceso al Proyecto en Google Colab
+Puedes ejecutar y explorar el análisis completo directamente desde Google Colab haciendo clic en el siguiente enlace:
+
+👉 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18TanCC-d4_4HIku_GEOM_to9PTG2a8lE#scrollTo=gZqqw75K5v8o?usp=sharing)
+
+---
+
 ## Autora
 **Angie Naranjo**
 Geóloga, Analista de Datos y apasionada por los Sistemas de Información Geográfica.
+
+---
 
 ## Créditos
 Proyecto basado en el desafío de Alura LATAM para estudiantes de Ciencia de Datos.
