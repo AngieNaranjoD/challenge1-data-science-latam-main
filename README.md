@@ -26,7 +26,7 @@ El proyecto aborda las siguientes preguntas:
 
 ## 📊 Herramientas y Bibliotecas
 
-- **Python 3.10+**
+- **Python**
 - `pandas`, `numpy` - Análisis de datos
 - `matplotlib`, `seaborn` - Visualización
 - `Jupyter Notebook` - Entorno de desarrollo
