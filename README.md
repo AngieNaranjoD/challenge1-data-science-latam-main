@@ -4,7 +4,7 @@ Este proyecto de ciencia de datos tiene como objetivo analizar el rendimiento de
 
 ---
 
-## 🎯 Objetivo del Proyecto
+## Objetivo del Proyecto
 
 Evaluar el desempeño de cada tienda para responder a la pregunta:  
 > **¿Cuál de las tiendas debería vender el Sr. Juan?**  
@@ -12,7 +12,7 @@ Evaluar el desempeño de cada tienda para responder a la pregunta:
 
 ---
 
-## 🧪 Análisis Realizado
+## Análisis Realizado
 
 El proyecto aborda las siguientes preguntas:
 
@@ -33,12 +33,10 @@ El proyecto aborda las siguientes preguntas:
 
 ---
 
-
-
-Autora
-Angie Naranjo
+## Autora
+**Angie Naranjo**
 Geóloga, Analista de Datos y apasionada por los Sistemas de Información Geográfica.
 
-Créditos
+## Créditos
 Proyecto basado en el desafío de Alura LATAM para estudiantes de Ciencia de Datos.
 Inspirado en problemas reales de toma de decisiones empresariales usando datos.
